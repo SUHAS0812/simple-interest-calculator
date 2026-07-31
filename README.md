@@ -15,3 +15,4 @@ SI = (1000 × 5 × 2) / 100 = 100
 
 ## Usage
 Run the script and enter Principal, Rate, and Time when prompted to get the Simple Interest.
+This project has been reviewed for typos.
